@@ -1,0 +1,8 @@
+{
+  "store.custom.form-pre-venda": {
+    "allowed": ["form-pre-venda"]
+  },
+  "form-pre-venda": {
+    "component": "Form"
+  }
+}
